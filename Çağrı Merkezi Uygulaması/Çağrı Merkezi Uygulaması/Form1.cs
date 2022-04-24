@@ -212,8 +212,6 @@ namespace Çağrı_Merkezi_Uygulaması
                 case "Bekleyen Aramalar":
                     pendingCalls(i);
                     break;
-                case "Notları Görüntüle":
-                    break;
                 default:
                     MessageBox.Show("Yapmak istediğiniz işlemi seçiniz.");
                     break;
@@ -250,8 +248,6 @@ namespace Çağrı_Merkezi_Uygulaması
                     break;
                 case "Bekleyen Aramalar":
                     pendingCalls(c);
-                    break;
-                case "Notları Görüntüle":
                     break;
                 default:
                     MessageBox.Show("Yapmak istediğiniz işlemi seçiniz.");
