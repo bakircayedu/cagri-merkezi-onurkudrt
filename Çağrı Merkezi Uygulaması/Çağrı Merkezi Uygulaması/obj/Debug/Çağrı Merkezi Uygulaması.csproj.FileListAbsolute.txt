@@ -1,0 +1,14 @@
+C:\Users\Monster\source\repos\Çağrı Merkezi Uygulaması\Çağrı Merkezi Uygulaması\bin\Debug\Çağrı Merkezi Uygulaması.exe.config
+C:\Users\Monster\source\repos\Çağrı Merkezi Uygulaması\Çağrı Merkezi Uygulaması\bin\Debug\Çağrı Merkezi Uygulaması.exe
+C:\Users\Monster\source\repos\Çağrı Merkezi Uygulaması\Çağrı Merkezi Uygulaması\bin\Debug\Çağrı Merkezi Uygulaması.pdb
+C:\Users\Monster\source\repos\Çağrı Merkezi Uygulaması\Çağrı Merkezi Uygulaması\obj\Debug\Çağrı Merkezi Uygulaması.csproj.AssemblyReference.cache
+C:\Users\Monster\source\repos\Çağrı Merkezi Uygulaması\Çağrı Merkezi Uygulaması\obj\Debug\Çağrı_Merkezi_Uygulaması.Form1.resources
+C:\Users\Monster\source\repos\Çağrı Merkezi Uygulaması\Çağrı Merkezi Uygulaması\obj\Debug\Çağrı_Merkezi_Uygulaması.Properties.Resources.resources
+C:\Users\Monster\source\repos\Çağrı Merkezi Uygulaması\Çağrı Merkezi Uygulaması\obj\Debug\Çağrı Merkezi Uygulaması.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\Çağrı Merkezi Uygulaması\Çağrı Merkezi Uygulaması\obj\Debug\Çağrı Merkezi Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\Çağrı Merkezi Uygulaması\Çağrı Merkezi Uygulaması\obj\Debug\Çağrı Merkezi Uygulaması.exe
+C:\Users\Monster\source\repos\Çağrı Merkezi Uygulaması\Çağrı Merkezi Uygulaması\obj\Debug\Çağrı Merkezi Uygulaması.pdb
+C:\Users\Monster\source\repos\Çağrı Merkezi Uygulaması\Çağrı Merkezi Uygulaması\obj\Debug\Çağrı_Merkezi_Uygulaması.Form2.resources
+C:\Users\Monster\source\repos\Çağrı Merkezi Uygulaması\Çağrı Merkezi Uygulaması\obj\Debug\Çağrı_Merkezi_Uygulaması.Form3.resources
+C:\Users\Monster\source\repos\Çağrı Merkezi Uygulaması\Çağrı Merkezi Uygulaması\obj\Debug\Çağrı_Merkezi_Uygulaması.Form4.resources
+C:\Users\Monster\source\repos\Çağrı Merkezi Uygulaması\Çağrı Merkezi Uygulaması\obj\Debug\Çağrı_Merkezi_Uygulaması.Form5.resources
