@@ -49,7 +49,7 @@ namespace Çağrı_Merkezi_Uygulaması
         //Bekleme sırasını görüntüle
         public override string showPending()
         {
-            string representative ="Temsilci ID: "+ID.ToString()+"\nTemsilci Adı: "+fullName+"\nAlan: "+workUnit;
+            //string representative ="Temsilci ID: "+ID.ToString()+"\nTemsilci Adı: "+fullName+"\nAlan: "+workUnit;
             string list = call.active.allList();
             return representative + "\nSIRADA BEKLEYENLER\n\n" + list;
         }
